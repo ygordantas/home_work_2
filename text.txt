@@ -1,1 +1,7 @@
 Hello world
+
+// git > tool that allows to keep track of changes in our code. (AKA version control)
+// github > centralizes code in the cloud (internet)
+//sdada 
+
+Just updated once more
